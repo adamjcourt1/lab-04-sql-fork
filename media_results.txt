@@ -1,0 +1,3 @@
+post_id	user_id	post_title	post_body	post_created	user_id	first_name	last_name	email	account_created	num_friends
+1	1	Hello World	This is my very first post. Excited to be here!	2026-10-01 05:01:45	1	Alice	Johnson	alice.johnson@example.com	2026-10-01 05:01:45	120
+2	1	Weekend Hike	Spent the weekend hiking in the Blue Ridge Mountains. The views were incredible.	2026-10-01 05:01:45	1	Alice	Johnson	alice.johnson@example.com	2026-10-01 05:01:45	120
